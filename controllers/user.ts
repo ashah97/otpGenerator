@@ -1,6 +1,5 @@
 
 import User from "../models/user";
-const { Op } = require("sequelize");
 
 import { Request, Response } from "express";
 
